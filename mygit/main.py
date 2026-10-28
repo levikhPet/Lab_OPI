@@ -10,3 +10,5 @@ def __init__():
 
 cout = 7
 cin = 2
+
+print(cout + cin)
