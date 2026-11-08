@@ -10,3 +10,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+print("LR9_NEW")
+print("LR9_NEW")
+print("LR9_NEW")
