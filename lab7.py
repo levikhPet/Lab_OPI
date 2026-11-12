@@ -17,3 +17,6 @@ c = int(input("Enter c: "))
 print("Result:" a, b, c)
 
 print("Lab10 new1")
+
+def newfunc():
+    print("ACCEPT LAB10")
