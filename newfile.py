@@ -6,3 +6,5 @@ def main()
     a = 6
     b = int(input("Enter b: "))
     print(a+b)
+
+print("Lab 9 recover true")
