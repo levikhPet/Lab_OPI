@@ -15,4 +15,5 @@ b = 9
 c = int(input("Enter c: "))
 
 print("Result:" a, b, c)
-EOF
+
+print("Lab10 new1")
